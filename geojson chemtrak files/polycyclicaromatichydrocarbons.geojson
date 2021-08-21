@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polycyclicaromatichydrocarbons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Status": "M", "Score": 100.0, "Match_type": "A", "Match_addr": "425 Horner Ave, Toronto, ON, M8W", "Side": "L", "AddNumFrom": "425", "AddNumTo": "435", "StPreDir": null, "StPreType": null, "StName": "Horner", "StType": "Ave", "StDir": null, "Nbrhd": null, "City": "Toronto", "Subregion": null, "Region": "ON", "Postal": "M8W", "PostalExt": null, "Country": "CAN", "LangCode": "ENG", "Addr_type": "StreetAddress", "StreetID": "61240000165130", "Distance": 0.0, "X": -79.539709, "Y": 43.602896, "DisplayX": -79.539709, "DisplayY": 43.602896, "Xmin": -79.589709, "Ymin": 43.552896, "Xmax": -79.489709, "Ymax": 43.652896, "ARC_Single": "425 Horner Avenue, Toronto, ON, M8W", "OBJECTID_1": 982, "Reporting": 2018, "Facility_N": "Nanowave Technologies Inc", "Industry": "All Other Electrical Equip. & Component Mfg.", "Address": "425 Horner Avenue, Toronto, ON, M8W", "Chemical_N": "Polycyclic Aromatic Hydrocarbons (PAHs)", "CAS_No": null, "Processed": 32, "Manufactur": 0, "Other_Use": 0, "Released_t": 18.0, "Released_1": 0, "Released_2": 0, "Released_3": 0, "Released_4": 14, "Total_Rele": 18.0 }, "geometry": { "type": "Point", "coordinates": [ -79.539708014452884, 43.602896338755393 ] } }
+]
+}

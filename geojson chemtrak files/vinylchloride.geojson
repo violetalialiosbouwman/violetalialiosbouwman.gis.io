@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "vinylchloride",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Status": "M", "Score": 100.0, "Match_type": "A", "Match_addr": "250 Supertest Rd, Toronto, ON, M3J", "Side": "R", "AddNumFrom": "200", "AddNumTo": "398", "StPreDir": null, "StPreType": null, "StName": "Supertest", "StType": "Rd", "StDir": null, "Nbrhd": null, "City": "Toronto", "Subregion": null, "Region": "ON", "Postal": "M3J", "PostalExt": null, "Country": "CAN", "LangCode": "ENG", "Addr_type": "StreetAddress", "StreetID": "61240000914559", "Distance": 0.0, "X": -79.470603, "Y": 43.777679, "DisplayX": -79.470603, "DisplayY": 43.777679, "Xmin": -79.520603, "Ymin": 43.727679, "Xmax": -79.420603, "Ymax": 43.827679, "ARC_Single": "250 Supertest Road, Toronto, ON, M3J", "OBJECTID_1": 981, "Reporting": 2018, "Facility_N": "Plascom Inc", "Industry": "All Other Plastic Product Mfg.", "Address": "250 Supertest Road, Toronto, ON, M3J", "Chemical_N": "Vinyl chloride", "CAS_No": "1975-01-04", "Processed": 0, "Manufactur": 1, "Other_Use": 0, "Released_t": 1.0, "Released_1": 0, "Released_2": 0, "Released_3": 0, "Released_4": 0, "Total_Rele": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -79.470601959388461, 43.777679383648341 ] } }
+]
+}
